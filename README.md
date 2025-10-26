@@ -16,7 +16,7 @@ Manual Testing | Selenium WebDriver | Java | TestNG | Maven | Extent Reports | P
 ## 🧩 Deliverables
 | Category | Files |
 |-----------|-------|
-| Manual | Test Plan · Test Cases · Bug Report · RTM · Summary |
+| Manual | Test Plan · Test Cases · Bug Report · RTM |
 | Automation | Selenium Java scripts (Login, Search/Filter/Wishlist, Checkout/Payment) |
 | API | Postman collection (Login, Product List endpoints) |
 
