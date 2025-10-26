@@ -1,7 +1,7 @@
 # Br Vastra Alankar – E-Commerce Boutique QA Project
 
-This project validates functional and automation testing for Br Vastra Alankar, 
-a web and mobile platform where users browse sarees and clothing, add items to wishlist/cart, 
+This project demonstrates functional and automation testing for BR Vastra Alankar, 
+a web platform where users browse sarees and clothing, add items to wishlist/cart, 
 and complete secure online purchases.
 
 ## 📘 Scope
